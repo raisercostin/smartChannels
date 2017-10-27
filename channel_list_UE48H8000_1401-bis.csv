@@ -93,7 +93,7 @@
 ,18,,C-28-217-1340-89,"Antena 1 HD",DCT0,
 ,19,,C-28-202-1034-73,"B1",DCT0,
 ,20,,C-28-207-1161-78,"Kanal D HD",DCT0,
-#,201,,C-28-202-1031-73,"Kanal D",DCT0,
+,201,,C-28-202-1031-73,"Kanal D",DCT0,
 ,21,,C-28-206-1134-77,"Romania TV",DCT0,
 ,22,,C-28-207-1150-78,"Nasul TV",DCT0,
 ,23,,C-28-206-1132-77,"National 24 Plus",DCT0,
@@ -131,12 +131,12 @@
 
 # docs - food
 ,50,,C-28-215-1321-86,"Food Network HD",DCT0,
-#,501,,C-28-215-1326-86,"Food Network",DCT0,
+,750,,C-28-215-1326-86,"Food Network",DCT0,
 
 # docs - travel
 ,51,,C-28-205-1112-76,"Fine Living",DCT0,
 ,52,,C-28-213-1302-84,"Travel Channel HD",DCT0,
-#,521,,C-28-209-1207-80,"Travel Channel",DCT0,
+,752,,C-28-209-1207-80,"Travel Channel",DCT0,
 ,53,,C-28-210-1225-81,"Travel Mix",DCT0,
 
 
@@ -149,7 +149,7 @@
 # entertain
 ,60,,C-28-217-1341-89,"Antena Stars HD",DCT0,
 ,61,,C-28-214-1314-85,"E! Entertainment HD",DCT0,
-#,611,,C-28-210-1227-81,"E! Entertainment",DCT0,
+,711,,C-28-210-1227-81,"E! Entertainment",DCT0,
 
 # copii bebe
 ,65,,C-28-204-1075-75,"Disney Junior",DCT0,
@@ -172,7 +172,7 @@
 
 #music
 ,80,,C-28-211-1254-82,"U TV",DCT0,12S
-#,801,,C-28-211-1262-82,"U TV HD",DCT0,12
+,701,,C-28-211-1262-82,"U TV HD",DCT0,12
 ,81,,C-28-211-1250-82,"VH1",DCT0,
 ,82,,C-28-211-1252-82,"VH1 Classic",DCT0,
 ,83,,C-28-217-1344-89,"ZU TV HD",DCT0,
@@ -316,7 +316,7 @@
 ,993,,C-28-205-1102-76,"AXN White",DCT0,
 ,994,,C-28-208-1188-79,"Cinemaraton HD",DCT0,
 ,995,,C-28-205-1111-76,"HBO HD",DCT0,
-#,1951,,C-28-205-1105-76,"HBO",DCT0,
+,751,,C-28-205-1105-76,"HBO",DCT0,
 ,996,,C-28-205-1106-76,"HBO 2",DCT0,
 ,997,,C-28-213-1303-84,"HBO 2 HD",DCT0,
 ,998,,C-28-216-1333-88,"HBO 3",DCT0,
