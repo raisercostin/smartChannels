@@ -3,6 +3,9 @@ To change your channel list in a Samsung TV in romania with tv from orange: http
 1. on tv: search channels
 2. on tv: export to usb stick
 3. on windows: start ChanSort
+   - install scoop from http://scoop.sh
+   - scoop bucket add raisercostin https://github.com/raisercostin/raiser-scoop-bucket.git
+   - scoop install chansort
 4. on ChanSort:
    - Open Scm from usb stick
    - Copy channel list: Order the channels the same way as in reference list
